@@ -3,22 +3,23 @@
     height: 200px;
     border-bottom: 5px solid #285;
     margin: auto;
+    background-image: url(img/miauw.png);
 }
 #dino{
     width: 50px;
     height: 50px;
-    background-image: url(img/dino.png);
+    background-image: url(img/capybara-orange-on-head.png);
     background-size: 50px 50px;
     position: relative;
     top: 150px;
 }
 #cactus{
-    width: 20px;
-    height: 40px;
-    background-image: url(img/cactus.png);
-    background-size: 20px 40px;
+    width: 40px;
+    height: 20px;
+    background-image: url(img/kaiman.png);
+    background-size: 40px 20px;
     position: relative;
-    top: 110px;
+    top: 130px;
     left: 580px;
     animation: cactusanimation 2s infinite linear;
 }
