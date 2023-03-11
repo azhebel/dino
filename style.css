@@ -1,9 +1,9 @@
 .game {
     width: 600px;
     height: 200px;
-    border-bottom: 5px solid #285;
+    border-bottom: 5px solid rgb(0, 153, 255);
     margin: auto;
-    background-image: url(img/miauw.png);
+    background-image: url(img/water.png);
 }
 #dino{
     width: 50px;
